@@ -19,4 +19,7 @@ fi
 echo "Installing rokit"
 curl -sSf https://raw.githubusercontent.com/rojo-rbx/rokit/main/scripts/install.sh | bash
 
+echo "Installing all tools"
+rokit install
+
 echo "Finished"
