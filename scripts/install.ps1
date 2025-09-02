@@ -60,3 +60,4 @@ Write-Host "- Installing all tools with rokit."
 rokit install
 
 Write-Host "`nInstallation complete! You can now develop with our tools."
+Write-Host "`nInstallation complete! You can now develop with our tools."
