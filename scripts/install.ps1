@@ -18,4 +18,7 @@ if (-not (hasCommand git)) {
 Write-Host "Installing rokit"
 Invoke-RestMethod https://raw.githubusercontent.com/rojo-rbx/rokit/main/scripts/install.ps1 | Invoke-Expression
 
+Write-Host "Installing all tools"
+rokit install
+
 Write-Host "Finished"
