@@ -6,4 +6,4 @@ iwr -useb https://raw.githubusercontent.com/wackypizzaman/bootstrapper-repo/refs
 
 macOS/Linux: Run this line in one of your packages on mac or linux
 
-curl -sSf https://raw.githubusercontent.com/wackypizzaman/bootstrapper-repo/refs/heads/main/scripts/install.ps1 | bash
+curl -sSf https://raw.githubusercontent.com/wackypizzaman/bootstrapper-repo/refs/heads/main/scripts/install.sh | bash
